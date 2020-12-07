@@ -11,3 +11,4 @@ My attempt to solve the [Advent of code 2020](https://adventofcode.com) using Ko
 |4  |Passport Processing        |[Code](src/main/kotlin/Day04.kt) - [AoC](https://adventofcode.com/2020/day/4)|
 |5  |Binary Boarding            |[Code](src/main/kotlin/Day05.kt) - [AoC](https://adventofcode.com/2020/day/5)|
 |6  |Custom Customs             |[Code](src/main/kotlin/Day06.kt) - [AoC](https://adventofcode.com/2020/day/6)|
+|7  |Handy Haversacks           |[Code](src/main/kotlin/Day07.kt) - [AoC](https://adventofcode.com/2020/day/7)|
