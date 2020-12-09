@@ -13,3 +13,4 @@ My attempt to solve the [Advent of code 2020](https://adventofcode.com) using Ko
 |6  |Custom Customs             |[Code](src/main/kotlin/Day06.kt) - [AoC](https://adventofcode.com/2020/day/6)|
 |7  |Handy Haversacks           |[Code](src/main/kotlin/Day07.kt) - [AoC](https://adventofcode.com/2020/day/7)|
 |8  |Handheld Halting           |[Code](src/main/kotlin/Day08.kt) - [AoC](https://adventofcode.com/2020/day/8)|
+|9  |Encoding Error             |[Code](src/main/kotlin/Day09.kt) - [AoC](https://adventofcode.com/2020/day/9)|
